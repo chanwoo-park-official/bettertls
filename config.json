@@ -1,14 +1,5 @@
 {
-  "basePort": 8000,
-  "testVersion": 1,
-
-  "ip": "52.20.118.238",
-  "ipSubtree": "52.0.0.0/11",
-  "hostname": "test.nameconstraints.bettertls.com",
-  "hostSubtree": "nameconstraints.bettertls.com",
-
-  "invalidIp": "172.16.0.1",
-  "invalidHostname": "bad.example.com",
-  "invalidIpSubtree": "192.168.0.0/16",
-  "invalidHostSubtree": "example.net"
+  "cookie": "_T_ANO=LbHFuSQoiznOYhohCY+; _karmt=9uSrGGypuZEOow4Bo9rUvzCpByjMgknXUO0G2UNMkp3n8Y1dRsQL_ywTUVtPijaW; _karmtea=1627084908; _kawlt=_LduvE078gh37XCGAF0KZuRH4MfllBEM8hTF7QtGJAFM6u-RywxPpg1klUqvVaJqLMTrYq-bo95HcYm3hzFiBYYh_M3cP91062RRQTFVO2Cnu9SYq_B6AM8lKO297gjZ; _kawltea=1627074108; TIARA=Cf6jTj7gipf_8cbWYmeAVP7t9i-uf_1J7Spj-_396S_PknwMcZxUZMS9ehKYcGcRoqvd7ztWVO4C-kktryMVjw25yZcwrVVvAzfZBpvPs7o0; __T_=1; _kalang=ko",
+  "topLeft": "37.45071504405944, 127.01376640873467",
+  "bottomRight": "37.57576798823746, 126.90524725089102"
 }
